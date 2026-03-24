@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**AymeneDJL/AymeneDJL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aymene , a student at National Higher School of Telecommunications and ICT in ALGERIA.
 
-Here are some ideas to get you started:
+I worked on frontend (HTML/CSS) and recently learned backend (PHP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also doing a CCNA cours on network engineering
+
+I am still learning new thing in github also doing some small projects to learn from it
+
+**Fun facts**
+. I like cats
+. Curious about anything in this world
+. Hobbies : Gaming , GYM , reading

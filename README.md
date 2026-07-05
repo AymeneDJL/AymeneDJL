@@ -4,7 +4,7 @@ I am Aymene , a student at National Higher School of Telecommunications and ICT 
 
 I worked on frontend (HTML/CSS) and recently learned backend (PHP)
 
-I am also doing a CCNA cours on network engineering
+I have done the 3 levels of CCNA (CCNA: Switching, Routing, and Wireless Essentials , CCNA: Introduction to Networks , CCNA:+Enterprise+Networking,+Security,+and+Automation)
 
 I am still learning new thing in github also doing some small projects to learn from it
 
